@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Made%20by-Rocketseat-brightgreen&style=flat&logo">
   </a>
   <a>
-  <img src="">
 </p>
 
 ## 🔖 Sobre
@@ -21,12 +20,6 @@
 O <strong>Ecoleta</strong> é um marketplace de coleta de resíduos.
 
 Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
-
-## 🖼 Screenshot
-
-<img src="https://imgur.com/ymyJaaj">
-<img src="https://imgur.com/w4DhHOE">
-<img src="https://imgur.com/ysqEIY7">
 
 ## 🚀 Techs:
 
