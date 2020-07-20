@@ -32,6 +32,11 @@ Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next L
 
 As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
 
+## Instalação:
+
+`npm install` para instalar as dependências
+`npm start` para iniciar o server
+
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
