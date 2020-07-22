@@ -44,5 +44,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="#Trevas" target="_blank">Vinicius Gonçalves</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/vin%C3%ADcius-santos-1985fsa/" target="_blank">Vinicius Gonçalves</a>
 </h4>
