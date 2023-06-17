@@ -4,12 +4,10 @@
     <p align="center">
       <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-links-do-projeto">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-license">Licença</a>
   </p>
 
 </h3>
 <p align="center">
-  <a href="https://rocketseat.com.br">
     <img src="https://img.shields.io/badge/Made%20by-Rocketseat-brightgreen&style=flat&logo">
   </a>
   <a>
