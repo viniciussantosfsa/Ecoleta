@@ -1,17 +1,7 @@
 <h3 align="center">
     <img width="300px" src="https://i.imgur.com/thB3TEi.png">
     <br><br>
-    <p align="center">
-      <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-links-do-projeto">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  </p>
-
 </h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Made%20by-Rocketseat-brightgreen&style=flat&logo">
-  </a>
-  <a>
-</p>
 
 ## 🔖 Sobre
 
